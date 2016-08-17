@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="28" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="29" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="30" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="33" pc="268435508" symbol="onLayout"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="34" pc="268435512" symbol="onLayout"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="36" pc="268435555" symbol="onLayout"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="38" pc="268435598" symbol="onLayout"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="39" pc="268435622" symbol="onLayout"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="41" pc="268435668" symbol="onLayout"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="45" pc="268435678" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="47" pc="268435682" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="48" pc="268435682" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="49" pc="268435682" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="50" pc="268435690" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="51" pc="268435709" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="52" pc="268435728" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="53" pc="268435747" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="55" pc="268435766" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="56" pc="268435777" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="58" pc="268435790" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="61" pc="268435797" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="64" pc="268435983" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="65" pc="268436001" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="66" pc="268436032" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="67" pc="268436063" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="71" pc="268436113" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="72" pc="268436127" symbol="drawHand"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="75" pc="268436142" symbol="drawStats"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="76" pc="268436146" symbol="drawStats"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="78" pc="268436146" symbol="drawStats"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="79" pc="268436160" symbol="drawStats"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="80" pc="268436178" symbol="drawStats"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="81" pc="268436196" symbol="drawStats"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="85" pc="268436215" symbol="drawAlt"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="86" pc="268436219" symbol="drawAlt"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="88" pc="268436236" symbol="drawAlt"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="92" pc="268436317" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="93" pc="268436321" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="94" pc="268436338" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="96" pc="268436363" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="97" pc="268436399" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="98" pc="268436470" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="99" pc="268436541" symbol="drawActivityInfo"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="102" pc="268436622" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="103" pc="268436626" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="104" pc="268436643" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="105" pc="268436653" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="107" pc="268436663" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="108" pc="268436699" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="109" pc="268436764" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="110" pc="268436770" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="111" pc="268436806" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="114" pc="268437035" symbol="drawDeviceSettings"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="118" pc="268437072" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="119" pc="268437076" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="120" pc="268437076" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="122" pc="268437076" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="123" pc="268437099" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="124" pc="268437113" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="125" pc="268437124" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="127" pc="268437141" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="128" pc="268437167" symbol="drawBatteryStat"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="132" pc="268437230" symbol="drawDate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="133" pc="268437234" symbol="drawDate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="134" pc="268437294" symbol="drawDate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="137" pc="268437304" symbol="drawDate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="138" pc="268437340" symbol="drawDate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="139" pc="268437397" symbol="drawDate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="140" pc="268437433" symbol="drawDate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="143" pc="268437491" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="144" pc="268437495" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="145" pc="268437495" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="146" pc="268437495" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="147" pc="268437495" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="148" pc="268437495" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="152" pc="268437579" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="153" pc="268437610" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="154" pc="268437626" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="155" pc="268437649" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="156" pc="268437685" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="159" pc="268437716" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="160" pc="268437751" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="163" pc="268437782" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="164" pc="268437793" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="165" pc="268437826" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="166" pc="268437862" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="167" pc="268437897" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="168" pc="268437914" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="169" pc="268437945" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="171" pc="268437979" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="172" pc="268438015" symbol="drawHands"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="176" pc="268438070" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="177" pc="268438074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="178" pc="268438087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="179" pc="268438100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="180" pc="268438117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="181" pc="268438134" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="186" pc="268438165" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="187" pc="268438201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="190" pc="268438227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="192" pc="268438257" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="194" pc="268438275" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="197" pc="268438295" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="201" pc="268438313" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="202" pc="268438349" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="203" pc="268438382" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="204" pc="268438418" symbol="onUpdate"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="209" pc="268438452" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="210" pc="268438456" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="211" pc="268438466" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="214" pc="268438483" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogView.mc" lineNum="215" pc="268438487" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogApp.mc" lineNum="11" pc="268438498" symbol="initialize"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogApp.mc" lineNum="12" pc="268438502" symbol="initialize"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogApp.mc" lineNum="15" pc="268438521" symbol="onStart"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogApp.mc" lineNum="18" pc="268438526" symbol="onStop"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogApp.mc" lineNum="21" pc="268438531" symbol="getInitialView"/>
+<entry filename="C:\\Users\\igor\\Documents\\workspace\\AnalogWatch\\source\\AnalogApp.mc" lineNum="22" pc="268438535" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8" object="true" symbol="AnalogView"/>
+<entry id="8388631" symbol="Activity"/>
+<entry field="true" id="13" symbol="ClockFace"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="26" method="true" symbol="drawDate"/>
+<entry field="true" id="12" symbol="DoNotDisturbIcon"/>
+<entry id="27" method="true" symbol="drawHands"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="24" method="true" symbol="drawDeviceSettings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry id="20" method="true" symbol="drawHand"/>
+<entry id="22" method="true" symbol="drawAlt"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="18" symbol="dndIcon"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389795" symbol="doNotDisturb"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="19" symbol="clockFace"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry id="23" method="true" symbol="drawActivityInfo"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry field="true" id="17" symbol="isAwake"/>
+<entry id="9" object="true" symbol="AnalogWatch"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="21" method="true" symbol="drawStats"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="25" method="true" symbol="drawBatteryStat"/>
+<entry field="true" id="15" symbol="id_font_black_diamond"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388633" symbol="ActivityMonitor"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436100" name="x" stackId="14" startPc="268436001"/>
+<entry endPc="268436100" name="y" stackId="15" startPc="268436001"/>
+<entry endPc="268436113" name="i" stackId="13" startPc="268436001"/>
+<entry endPc="268436141" name="result" stackId="8" startPc="268435682"/>
+<entry endPc="268436141" name="halfEndWidth" stackId="6" startPc="268435682"/>
+<entry endPc="268436141" name="sin" stackId="12" startPc="268435682"/>
+<entry endPc="268436141" name="cos" stackId="11" startPc="268435682"/>
+<entry endPc="268436141" name="centerY" stackId="10" startPc="268435682"/>
+<entry endPc="268436141" name="coords" stackId="7" startPc="268435682"/>
+<entry endPc="268436141" name="centerX" stackId="9" startPc="268435682"/>
+<entry endPc="268436214" name="bluetooth" stackId="4" startPc="268436146"/>
+<entry endPc="268436316" name="info" stackId="4" startPc="268436219"/>
+<entry endPc="268436621" name="distKm" stackId="5" startPc="268436321"/>
+<entry endPc="268436621" name="info" stackId="4" startPc="268436321"/>
+<entry endPc="268437071" name="deviceSettings" stackId="4" startPc="268436626"/>
+<entry endPc="268437071" name="count" stackId="5" startPc="268436626"/>
+<entry endPc="268437071" name="isConnected" stackId="6" startPc="268436626"/>
+<entry endPc="268437229" name="battery" stackId="2" startPc="268437076"/>
+<entry endPc="268437229" name="color" stackId="3" startPc="268437076"/>
+<entry endPc="268437490" name="dateStr" stackId="4" startPc="268437234"/>
+<entry endPc="268437490" name="weekDay" stackId="5" startPc="268437234"/>
+<entry endPc="268438069" name="secondHand" stackId="7" startPc="268437495"/>
+<entry endPc="268438069" name="secondTail" stackId="8" startPc="268437495"/>
+<entry endPc="268438069" name="timeString" stackId="9" startPc="268437495"/>
+<entry endPc="268438069" name="minuteHand" stackId="6" startPc="268437495"/>
+<entry endPc="268438069" name="hourHand" stackId="5" startPc="268437495"/>
+<entry endPc="268438451" name="now" stackId="5" startPc="268438074"/>
+<entry endPc="268438451" name="dateLong" stackId="6" startPc="268438074"/>
+<entry endPc="268438451" name="clockTime" stackId="4" startPc="268438074"/>
+<entry endPc="268438451" name="screenWidth" stackId="2" startPc="268438074"/>
+<entry endPc="268438451" name="screenHeight" stackId="3" startPc="268438074"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHand" parent="AnalogView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<param id="endWidth"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStats" parent="AnalogView">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawAlt" parent="AnalogView">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawActivityInfo" parent="AnalogView">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDeviceSettings" parent="AnalogView">
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBatteryStat" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDate" parent="AnalogView">
+<param id="dateLong"/>
+<param id="dc"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHands" parent="AnalogView">
+<param id="clockTime"/>
+<param id="dc"/>
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
