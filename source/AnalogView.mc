@@ -120,7 +120,7 @@ class AnalogView extends Ui.WatchFace
 	    var color;
 	    
 		battery = Sys.getSystemStats().battery;
-		color = Gfx.COLOR_DK_GREEN;
+		color = Gfx.COLOR_DK_BLUE;
 		if(battery < 30) {
 			color = Gfx.COLOR_DK_RED;
 		}
@@ -135,9 +135,9 @@ class AnalogView extends Ui.WatchFace
 
 
         dc.setColor(Gfx.COLOR_DK_BLUE, Gfx.COLOR_WHITE);
-        dc.drawText(width / 2 + 16, 0, Gfx.FONT_MEDIUM, dateStr, Gfx.TEXT_JUSTIFY_RIGHT);
+        dc.drawText(width / 2 + 12, 0, Gfx.FONT_MEDIUM, dateStr, Gfx.TEXT_JUSTIFY_RIGHT);
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_WHITE);
-        dc.drawText(width / 2 + 22, 4, Gfx.FONT_XTINY, weekDay, Gfx.TEXT_JUSTIFY_LEFT);
+        dc.drawText(width / 2 + 50, 4, Gfx.FONT_XTINY, weekDay, Gfx.TEXT_JUSTIFY_RIGHT);
     }
 
     function drawHands(clockTime, dc, screenWidth, screenHeight) {
@@ -153,11 +153,11 @@ class AnalogView extends Ui.WatchFace
         hourHand = hourHand / (12 * 60.0);
         hourHand = hourHand * Math.PI * 2;
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_WHITE);
-        drawHand(dc, hourHand, 40, 10, 0);
+        drawHand(dc, hourHand, 44, 12, 0);
 
         // Draw the minute
         minuteHand = (clockTime.min / 60.0) * Math.PI * 2;
-        drawHand(dc, minuteHand, 60, 10, 0);
+        drawHand(dc, minuteHand, 64, 12, 0);
 
         // Draw the second
         if (isAwake) {
@@ -165,7 +165,7 @@ class AnalogView extends Ui.WatchFace
             dc.setColor(Gfx.COLOR_DK_RED, Gfx.COLOR_TRANSPARENT);
             secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
             secondTail = secondHand - Math.PI;
-            drawHand(dc, secondHand, 60, 4, 0);
+            drawHand(dc, secondHand, 64, 4, 0);
             drawHand(dc, secondTail, 15, 4, 4);
         }
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_WHITE);        
@@ -199,7 +199,7 @@ class AnalogView extends Ui.WatchFace
 
         // Draw the arbor
         dc.setColor(Gfx.COLOR_BLACK,Gfx.COLOR_BLACK);
-        dc.drawCircle(screenWidth / 2, screenHeight / 2, 6);
+        dc.fillCircle(screenWidth / 2, screenHeight / 2, 7);
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_WHITE);
         dc.fillCircle(screenWidth / 2, screenHeight / 2, 4);
         
